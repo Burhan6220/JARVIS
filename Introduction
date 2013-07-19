@@ -1,0 +1,6 @@
+<speechMacros>
+  <command>
+    <listenFor>Hello Jarvis</listenFor>
+    <speak>Hello Sir, what can i do for you sir</speak>
+  </command>
+</speechMacros>
